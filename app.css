@@ -1,0 +1,19 @@
+h1{
+	color:rgba(0,200,100,0.8); 
+	border: 3px solid purple;
+}
+/*width
+colour
+style*/
+
+h4{
+
+	background: rgb(255,100,80);
+}
+body{
+
+     background: pink;
+	/*background: url(https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

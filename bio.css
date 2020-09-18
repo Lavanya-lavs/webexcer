@@ -1,0 +1,26 @@
+body{
+	border:20px solid green;
+	padding:20px;
+	width:700px;
+    margin:0 auto;
+}
+.head{
+    color: #f00;
+    text-align: center;
+}
+.profile{
+    border: 2px solid #b2beb5 ;
+    width:100%;
+    line-height:0px;
+    background-color:#b2beb5;
+    font-size:12px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+table{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border:2px solid black;
+}
+

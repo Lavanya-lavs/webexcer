@@ -1,0 +1,23 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.40%;
+	border:2px solid #008000;
+
+}
+img:hover {
+
+  box-shadow: 0 0 2px 1px rgba(0, 150, 20, 0.5);
+}
+
+
+p{
+	font-family: Kufam;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	border-bottom: 3px solid green;
+	width:30%;
+	padding-bottom:5px;
+
+}
